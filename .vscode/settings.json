@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "Neet"
+    ],
+    "files.associations": {
+        "xhash": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
+    }
+}
