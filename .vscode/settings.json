@@ -11,6 +11,13 @@
         "algorithm": "cpp",
         "unordered_set": "cpp",
         "stack": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "deque": "cpp",
+        "exception": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "tuple": "cpp"
     }
 }

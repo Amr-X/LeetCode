@@ -18,6 +18,7 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
+        // Doesn't work with Odd Input
         if(!head || !head->next) return head;
        ListNode* curr = head;
        ListNode* next = curr->next;D
